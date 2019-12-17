@@ -21,6 +21,7 @@ ScriptsOnlyBuild:
     - superfruit
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
@@ -1398,4 +1399,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/ThirdPerson.unity
   - Assets/Scenes/End.unity
   - Assets/Scenes/GameOver.unity
-  playerPath: C:/Users/alex_/OneDrive/Desktop/Good Eats/GoodEats.exe
+  playerPath: C:/Users/alex_/OneDrive/Desktop/Good Eats/Good-Eats-327-Final/Final-Build/GoodEats.exe
